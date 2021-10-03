@@ -1,17 +1,25 @@
 # iv. Syllabus
 
-Module 1: Introduction to Server-Side JavaScript  
+## Module 1: Introduction to Server-Side JavaScript  
   1. Course Intro
 
-  2. Module Introduction  
- Introduction to Node.js (optional)  
- Introduction to Server-Side Javascript  
- Creating a Web Server with Node.js  
- Working with Node.js Modules  
- Lab - Introduction to Server-side JavaScript  
- Module Summary  
-Module 2: Asynchronous I/O with Callback Programming  
- Module Introduction  
+  2. Module Introduction
+
+  3. Introduction to Node.js (optional)
+
+  4. Introduction to Server-Side Javascript
+
+  5. Creating a Web Server with Node.js
+
+  6. Working with Node.js Modules
+
+  7. Lab - Introduction to Server-side JavaScript
+
+  8. Module Summary
+
+  
+\## Module 2: Asynchronous I/O with Callback Programming  
+  1. Module Introduction  
  Asynchronous I/O with Callback Programming  
  Creating Callback Functions  
  Promises  
