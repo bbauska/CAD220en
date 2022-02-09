@@ -10,7 +10,7 @@ You may ask, what is the relevance of developing cloud applications with Node.js
 
 In 2020, a survey done by Stack Overflow found Node.js was used by more than 50% of the developers who answered the survey, making it one of the most used frameworks in web development.  
 React.js similarly ranked second in the usage category.  
-So, as you can tell, both of these frameworks are very popular in server-side and client-side application development.  
+As you can tell, both of these frameworks are very popular in server-side and client-side application development.  
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/41387907/135739358-3567747b-3d67-4f64-ae94-a9cb4d711507.png" width="400">
