@@ -1,4 +1,4 @@
-# iv. Syllabus
+<h2>iv. Syllabus</h2>
 
 ## Module 1: Introduction to Server-Side JavaScript
 
@@ -38,7 +38,7 @@
 6.  Lab
 7.  Module Summary
 
-## M4: Building a Rich Front-End Application using REACT & ES6
+## Module 4: Building a Rich Front-End Application using REACT & ES6
 
 1.  Module Introduction
 2.  Introduction to ES6
