@@ -7,9 +7,12 @@ In this course, you will learn how to develop and deploy full-stack web applicat
 <p>This course is ideal for those who want to start a career in Cloud Development or developers who want to update their skills with current Cloud programming technologies and practices.</p>
 <p>It is highly recommended that you complete other courses in the IBM Cloud Application Development Foundations Professional Certificate prior to starting this course. The course requires prior basic knowledge of HTML5, JavaScript, DevOps, Git, and fundamental concepts in Cloud programming.<br>
 After completing this course, you will be able to create modern applications using Cloud Native concepts.<br></p>
+
 <article>
-Note: It is highly recommended that you complete the Introduction to Cloud Development with HTML, CSS, and JavaScript course in the Professional Certificate in Full Stack Cloud Developer prior to starting this course. The course requires prior basic knowledge of HTML5, CSS, JavaScript, Git, and fundamental concepts in Cloud programming.
+Note: It is highly recommended that you complete the Introduction to Cloud Development with HTML, CSS, and JavaScript course in the Professional Certificate in Full Stack Cloud Developer prior to starting this course.
 </article>
+
+<h4>This course requires prior basic knowledge of;</h4>
 
 <ul>
 <li>Basic HTML5 & JavaScript Skills</li>
